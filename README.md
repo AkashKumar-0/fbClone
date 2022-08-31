@@ -11,4 +11,14 @@ Here is the link of the utube chanell where i learned this -
 https://youtu.be/NljIHlZRTTE
 ```
 
-
+also i would like to say thanks to ```freeCodeCammp``` for his incredible efforts . here is the gitrepo
+``` git@github.com:freeCodeCamp/freeCodeCamp.git ```
+HTML & CSS link -
+```https://youtu.be/mU6anWqZJcc ```
+CSS only -
+```https://youtu.be/1Rs2ND1ryYc```
+JavaScript link -
+```https://youtu.be/jS4aFq5-91M```
+but i would suggest u to go on with this link, which is also from FreeCodeCamp of 21 hr approx containing all these three 
+courses i.e. HTML, CSS and JAVASCRIPT -
+```https://youtu.be/zJSY8tbf_ys```
