@@ -68,7 +68,7 @@ nav
     color: transparent;
     font-size: 2rem;
     -webkit-text-stroke: 1px #fff; 
-    background: url(./mayra_img/back.png);
+    background: url(./socialbook_img/back.png);
     -webkit-background-clip: text;
     background-position: 0 0;
     animation: back 20s linear infinite;
@@ -109,7 +109,7 @@ nav
     border-radius: 5px;
     background: var(--bg-color);
     font-weight: 700;
-    color: #cbced1;
+    color: var(--p-color);
     width: 40%;
     height: 4vh;   
     border: none; 
@@ -139,7 +139,6 @@ nav
     padding: 13px 5%;
 }
 .left-sidebar {
-    /* background-color: rgba(24, 118, 242, 0.08); */
     flex-basis: 25%;
     position: sticky;
     top: 140px;
