@@ -3,6 +3,21 @@
 
 I'm newbie in front end development but i love to do .
 I just want to implement what i have learned and to learn those word that how it works practically. so herre i done with it . Practical Implementation has lots of learning apart from theory .
+``` 
+There are total five section of this web page .
+First - Nav Bar {
+    In nav bar there three parts - left nav bar , right nav bar (middle one is also added in right nav bar)
+    Profile pic has containing one section in it.
+}
+Second - Right Sidebar {
+   threre also three parts - upper, middle and lower
+}
+Third - Left Sidebar {
+  it has  two section .
+}
+Fourth - Middle -> main content {
+  it has four section - 1)- search 2)- story      3)- for post   4)- feeds
+
 
 please give your valuable suggestions. it means a lot to me .
 
