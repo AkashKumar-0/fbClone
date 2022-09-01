@@ -16,8 +16,8 @@ Third - Left Sidebar {
   it has  two section .
 }
 Fourth - Middle -> main content {
-  it has four section - 1)- search 2)- story      3)- for post   4)- feeds
-
+  it has four section - 1)- search  2)- story   3)- for post   4)- feeds
+```
 
 please give your valuable suggestions. it means a lot to me .
 
