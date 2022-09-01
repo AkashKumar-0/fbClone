@@ -14,7 +14,7 @@ https://youtu.be/NljIHlZRTTE
 also i would like to say thanks to ```freeCodeCammp``` for his incredible efforts . here is the github profile of FCC
 
 ``` 
-git@github.com:freeCodeCamp/freeCodeCamp.git
+https://github.com/freeCodeCamp
 ```
 
 HTML & CSS link -
