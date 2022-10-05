@@ -1,4 +1,5 @@
 # fb_clone
+![fb_clone](https://user-images.githubusercontent.com/98875003/194067583-42bc8be1-310a-4454-a6da-3d8012df2684.png)
 
 
 I'm newbie in front end development but i love to do .
